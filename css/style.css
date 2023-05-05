@@ -123,7 +123,7 @@ header {
 .card-conteudo{
     margin-top: 10%;
     display: flex;
-    margin: 15%;
+    margin: 5%;
     background-color: azure;
     border-radius: 1rem;
 }
@@ -133,13 +133,15 @@ header {
 
 }
 .texto{
-    text-align: justify;
+    text-align: center;
     margin: 10%;
 }
-.img{
+.card-conteudo .img{
     margin: 0;
     border-radius: 1rem;
     display: flex;
+    justify-content: center;
+    text-align: center;
 
     
 }
