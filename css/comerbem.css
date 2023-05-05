@@ -55,7 +55,7 @@ header {
 .card-conteudo{
     margin-top: 10%;
     display: flex;
-    margin: 15%;
+    margin: 5%;
     background-color: azure;
     border-radius: 1rem;
 }
@@ -79,6 +79,5 @@ p{
   
     margin: 3%;
 }
-
 
 
