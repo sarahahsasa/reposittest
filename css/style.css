@@ -150,5 +150,7 @@ p{
     font-size: larger;
     margin: 10%;
 }
-
+nav.nav-bar{
+    background-color: black;
+}
 
