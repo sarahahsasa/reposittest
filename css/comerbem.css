@@ -79,5 +79,6 @@ p{
   
     margin: 3%;
 }
-
-
+nav.nav-bar{
+    background-color: black;
+}
