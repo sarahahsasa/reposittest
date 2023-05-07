@@ -77,6 +77,11 @@
     padding: 7em;
     max-width: 28%;
     color: var(--text-secondary);
+     margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0%;
+    max-width: 5000px;
+    height: 710px;
 
 }
 
@@ -213,6 +218,8 @@
     text-decoration: none;
     font-size: 1.15rem;
     color: #fff;
-    font-weight: 400;
-    
+    font-weight: 400;   
+}
+nav.nav-bar{
+    background-color: black;
 }
